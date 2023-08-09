@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'webapp17watanabe'
           slot-name: 'gitstaging'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_BF7A30DB768C477995EF373F6F09BC0E }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_EDF53E065698477082B71FEBD49C1DF2 }}
           package: .
